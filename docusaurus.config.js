@@ -16,7 +16,7 @@ const config = {
   url: 'https://amazing-seahorse-ef4a60.netlify.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: 'https://amazing-seahorse-ef4a60.netlify.app/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
