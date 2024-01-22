@@ -22,7 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Esencial', // Usually your GitHub org/user name.
   projectName: 'docusaurus-example', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+  deploymentBranch: 'deploy',
   trailingSlash: false,
 
   onBrokenLinks: 'ignore',
