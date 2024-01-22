@@ -1,0 +1,8 @@
+{
+  "label": "Wiki de Desarrollo",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Este directorio compila todos los flujos y documentación asociada al Flujo de Venta, tanto para el producto de Simulación como para Contratación."
+  }
+}
